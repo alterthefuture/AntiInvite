@@ -11,7 +11,7 @@ async def on_connect():
 @client.event
 async def on_message(message):
     
-  ignore_member = ['your id','another id','another one'] #put your id and other people's id you want the bot to ignore
+  ignore_member = [your id,another id,another one] #put your id and other people's id you want the bot to ignore
   ignore_channel = client.get_channel(idhere) #this is the channel where the bot ignore the discord invite link
     
   if message.author.id in ignore_member:
