@@ -1,5 +1,5 @@
 # AntiInvite 
-AntiInvite - made by lxy#7777
+AntiInvite - made by lxy#5676
 
 anti invite bot that deletes other discord servers invite link
 
