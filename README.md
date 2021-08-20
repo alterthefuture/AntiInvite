@@ -1,5 +1,5 @@
 # AntiInvite 
-AntiInvite - made by Luxa#1350
+AntiInvite - made by CatNinja#0001
 
 anti invite bot that deletes other discord servers invite link
 
