@@ -1,5 +1,5 @@
 # AntiInvite 
-AntiInvite - made by ritz#8888
+AntiInvite - made by playedyabtch
 
 anti invite bot that deletes other discord servers invite link
 
